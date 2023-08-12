@@ -13,10 +13,13 @@ File `ExactPolarobreathers_PureCode_WithoutData.zip` contains pure code without 
 This research has been financially supported by the specific support objective activity 1.1.1.2. “Post-doctoral Research Aid” of the Republic of Latvia (Project No. 1.1.1.2/VIAA/4/20/617 “Data-Driven Nonlinear Wave Modelling”), funded by the European Regional Development Fund (project id. N. 1.1.1.2/16/I/001).
 
 #### Instructions to run the code
-- To perform a numerical simulation, run the file `main.m`.
-- Initial conditions and the choice of the numerical method are set in the same file `main.m`.
-- All parameter values are defined in the file `Parameter_Values.m`.
-- All variables are initialized in the file `Define_Variables.m`. 
+- To perform a numerical simulation, run the file `main.m`. Initial conditions are set in the same file.
+- All parameter values are defined in the file `Parameter_Values.m`, whereas all variables are initialized in the file `Define_Variables.m`. 
 - For convenience, all parameter values and variables are stored in structures: `parm` and `vars`, respectively.
-- All functions and numerical methods can be found and are defined in the folder `Functions`.
-- Optionally, simulation data and figures can be saved in the following folders: `SavedData` and `Figures`, respectively.
+- All functions can be found and are defined in the folder `Functions`.
+- Simulation data and figures are saved in the following folders: `SavedData` and `Figures`, respectively.
+- To obtain simulation data of approximate stationary polarobreather solution, run the following files:
+- To obtain simulation data of approximate moving polarobreather solution, run the following files:
+- Damped Gauss-Newton method is used to obtain numerically exact stationary and moving polarobreather solutions running the codes:, respectively.
+- To obtain numerical simulation data of exact stationary and moving polarobreather solutions, run the following files:, respectively.
+- Obtained simulation data is used to compute and study polarobreathers' spectra using the file .    
