@@ -10,6 +10,10 @@ File `ExactPolarobreathers_PureCode_WithoutData.zip` contains pure code without 
   <img src="Figures/stat_exact_spectrum.png" width="95%" />    
   <img src="Figures/mov_exact_spectrum.png" width="95%" /> 
 </p>
+<p float="left">
+  <img src="Figures/stat_exact_spectrum.png" width="95%" />    
+  <img src="Figures/mov_exact_spectrum.png" width="95%" /> 
+</p>
 
 This research has been financially supported by the specific support objective activity 1.1.1.2. “Post-doctoral Research Aid” of the Republic of Latvia (Project No. 1.1.1.2/VIAA/4/20/617 “Data-Driven Nonlinear Wave Modelling”), funded by the European Regional Development Fund (project id. N. 1.1.1.2/16/I/001).
 
