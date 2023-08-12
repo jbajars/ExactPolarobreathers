@@ -8,10 +8,8 @@ File `ExactPolarobreathers_PureCode_WithoutData.zip` contains pure code without 
 
 <p float="left">
   <img src="Figures/stat_exact_spectrum.png" width="95%" />    
-  <img src="Figures/mov_exact_spectrum.png" width="95%" /> 
 </p>
-<p float="left">
-  <img src="Figures/stat_exact_spectrum.png" width="95%" />    
+<p float="left">    
   <img src="Figures/mov_exact_spectrum.png" width="95%" /> 
 </p>
 
