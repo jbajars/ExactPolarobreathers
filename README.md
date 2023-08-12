@@ -5,7 +5,7 @@ MATLAB code to compute and study spectral properties of numerically exact statio
 Bajārs, J., Archilla, J.F.R.: *Splitting methods for semi-classical Hamiltonian dynamics of charge transfer in nonlinear lattices*. Mathematics **10**(19), 3460 (2022), [DOI:10.3390/math10193460](https://www.mdpi.com/2227-7390/10/19/3460).
 
 File `ExactPolarobreathers_PureCode_WithoutData.zip` contains pure code without precomputed data and images.
-<p> </p>p
+<p> </p>
 <p float="left">
   <img src="Figures/stat_exact_spectrum.png" width="95%" />    
 </p>
