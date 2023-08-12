@@ -19,7 +19,7 @@ This research has been financially supported by the specific support objective a
 - All functions can be found and are defined in the folder `Functions`.
 - Simulation data and figures are saved in the following folders: `SavedData` and `Figures`, respectively.
 - To obtain simulation data of approximate stationary polarobreather solution, run the following files: `Parameter_Values_SimDataXTFT_approx_stat.m` and `main_SimDataXTFT_approx_stat.m`.
-- To obtain simulation data of approximate moving polarobreather solution, run the following files: `Parameter_Values_SimDataXTFT_approx_mov.m` and `main_SimDataXTFT_approx_mov`.
-- Damped Gauss-Newton method is used to obtain numerically exact stationary and moving polarobreather solutions by running the files: `main_exact_solution_muGaussNewton_E0_stat.m` and `main_exact_solution_muGaussNewton_E0_mov`, respectively.
-- To obtain numerical simulation data of exact stationary and moving polarobreather solutions, run the following files:, respectively.
-- Obtained simulation data is used to compute and study polarobreathers' spectra using the file .    
+- To obtain simulation data of approximate moving polarobreather solution, run the following files: `Parameter_Values_SimDataXTFT_approx_mov.m` and `main_SimDataXTFT_approx_mov.m`.
+- Damped Gauss-Newton method is used to obtain numerically exact stationary and moving polarobreather solutions by running the files: `main_exact_solution_muGaussNewton_E0_stat.m` and `main_exact_solution_muGaussNewton_E0_mov.m`, respectively.
+- To obtain numerical simulation data of exact stationary and moving polarobreather solutions, run the following files: `main_SimDataXTFT_exact_stat.m` and `main_SimDataXTFT_exact_mov.m`, respectively.
+- Obtained simulation data is used to compute and study polarobreathers' spectral properties using the file `plot_XTFT_spectra.m`. 
