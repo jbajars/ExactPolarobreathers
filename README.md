@@ -1,8 +1,5 @@
 # ExactPolarobreathers
-MATLAB code to compute and study spectral properties of numerically exact stationary and moving polarobreather solutions in a one-dimensional semi-classical crystal lattice model. Using the code and developed numerical algorithms, please cite 
-
-
-Bajārs, J., Archilla, J.F.R.: *Splitting methods for semi-classical Hamiltonian dynamics of charge transfer in nonlinear lattices*. Mathematics **10**(19), 3460 (2022), [DOI:10.3390/math10193460](https://www.mdpi.com/2227-7390/10/19/3460).
+MATLAB code to compute and study spectral properties of numerically exact stationary and moving polarobreather solutions in a one-dimensional semi-classical crystal lattice model. Using the code and developed numerical algorithms, please cite Archilla, J.F.R., Bajārs, J.: *Spectral Properties of Exact Polarobreathers in Semiclassical Systems*. Axioms **12**(5), 437 (2023), [DOI: 10.3390/axioms12050437](https://www.mdpi.com/2075-1680/12/5/437).
 
 File `ExactPolarobreathers_PureCode_WithoutData.zip` contains pure code without precomputed data and images.
 
